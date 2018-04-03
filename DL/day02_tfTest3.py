@@ -27,3 +27,7 @@ for step in range(2001):
     if step % 100 == 0:
         print(step, sess.run(cost), sess.run(w), sess.run(b))
 
+print(sess.run(hf)) #예측값
+
+
+
