@@ -11,56 +11,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tftest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tftest.py">
+      <file leaf-file-name="day3_mvlrTest3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3_mvlrTest3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="10" selection-end-line="4" selection-end-column="22" />
+            <state>
+              <caret selection-end-line="41" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day02_tfTest1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day02_tfTest1.py">
+      <file leaf-file-name="Day03_Car.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day03_Car.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="26" column="62" selection-end-line="41" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day02_tfTest2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02_tfTest2.py">
+      <file leaf-file-name="day3_QRunner2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3_QRunner2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            <state relative-caret-position="912">
+              <caret line="48" column="56" lean-forward="true" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day02_tfTest3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02_tfTest3.py">
+      <file leaf-file-name="cars.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/cars.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="-171">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day2_LR_feed.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2_LR_feed.py">
+      <file leaf-file-name="day3_carsTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3_carsTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="494">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day3_lrTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3_lrTest.py">
+      <file leaf-file-name="day3_fileTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3_fileTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
+            <state relative-caret-position="258">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day3_fileTest2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3_fileTest2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trees.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/trees.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day03_Trees.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day03_Trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,38 +104,8 @@
       <file leaf-file-name="day3_mvlrTest1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day3_mvlrTest1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
-              <caret selection-end-line="35" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day3_mvlrTest2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3_mvlrTest2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="score.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/score.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day3_mvlrTest3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day3_mvlrTest3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="418">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -125,6 +131,14 @@
         <option value="$PROJECT_DIR$/day3_mvlrTest1.py" />
         <option value="$PROJECT_DIR$/day3_mvlrTest2.py" />
         <option value="$PROJECT_DIR$/day3_mvlrTest3.py" />
+        <option value="$PROJECT_DIR$/day3_tfQRunner.py" />
+        <option value="$PROJECT_DIR$/day3_fileTest.py" />
+        <option value="$PROJECT_DIR$/Data/cars.csv" />
+        <option value="$PROJECT_DIR$/day3_fileTest2.py" />
+        <option value="$PROJECT_DIR$/day3_carsTest.py" />
+        <option value="$PROJECT_DIR$/Day03_Car.py" />
+        <option value="$PROJECT_DIR$/day3_QRunner2.py" />
+        <option value="$PROJECT_DIR$/Day03_Trees.py" />
       </list>
     </option>
   </component>
@@ -178,8 +192,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day3_mvlrTest3">
-    <configuration name="day2_LR_feed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day03_Trees">
+    <configuration name="Day03_Car" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,13 +205,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2_LR_feed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day03_Car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="day3_lrTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day03_Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,13 +223,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3_lrTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day03_Trees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="day3_mvlrTest1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day3_QRunner2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,13 +241,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3_mvlrTest1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3_QRunner2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="day3_mvlrTest2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day3_fileTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,13 +259,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3_mvlrTest2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3_fileTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="day3_mvlrTest3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day3_fileTest2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,26 +277,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3_mvlrTest3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3_fileTest2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.day2_LR_feed" />
-      <item itemvalue="Python.day3_lrTest" />
-      <item itemvalue="Python.day3_mvlrTest1" />
-      <item itemvalue="Python.day3_mvlrTest2" />
-      <item itemvalue="Python.day3_mvlrTest3" />
+      <item itemvalue="Python.day3_QRunner2" />
+      <item itemvalue="Python.day3_fileTest" />
+      <item itemvalue="Python.day3_fileTest2" />
+      <item itemvalue="Python.Day03_Car" />
+      <item itemvalue="Python.Day03_Trees" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day3_mvlrTest3" />
-        <item itemvalue="Python.day3_mvlrTest2" />
-        <item itemvalue="Python.day3_mvlrTest1" />
-        <item itemvalue="Python.day3_lrTest" />
-        <item itemvalue="Python.day2_LR_feed" />
+        <item itemvalue="Python.Day03_Trees" />
+        <item itemvalue="Python.day3_QRunner2" />
+        <item itemvalue="Python.Day03_Car" />
+        <item itemvalue="Python.day3_fileTest2" />
+        <item itemvalue="Python.day3_fileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -386,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day3_mvlrTest1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret selection-end-line="35" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/Lib/site-packages/tensorflow/python/client/session.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -414,13 +421,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day3_mvlrTest3.py">
+    <entry file="file://$PROJECT_DIR$/Data/q_2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/q_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_tfQRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/q_1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/treeout.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/Lib/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="1029" selection-start-line="1029" selection-end-line="1029" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_fileTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_carsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_mvlrTest3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="41" selection-end-column="12" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/cars.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_fileTest2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_QRunner2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="56" lean-forward="true" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day03_Car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="62" selection-end-line="41" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3_mvlrTest1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day03_Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/trees.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
