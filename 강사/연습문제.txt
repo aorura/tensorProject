@@ -1,0 +1,10 @@
+1. 에어컨 on(1)/off(0)
+(습도, 온도) -> on/off?
+2. 당뇨병 문제
+전체 데이터 중
+-70% 트레이닝 데이터->모델->정확도
+-30% 테스트 데이터 -> 모델 검증
+3. 주식 예측 모델 (개장, low, high,.., -> 폐장)
+
+4. multi-label classification => iris_softmax.csv
+
